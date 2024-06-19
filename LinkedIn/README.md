@@ -60,6 +60,5 @@ This code leverages Google search results to simplify LinkedIn profile scraping.
 This script is provided as-is without any warranty. The author is not responsible for any misuse of this script or any potential violations of terms of service of the websites involved.
 
 ## License
-
-This project is licensed under the MIT License.
+ This project is licensed under the MIT License.
 ---
